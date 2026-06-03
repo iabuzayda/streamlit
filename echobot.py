@@ -1,6 +1,7 @@
 import streamlit as st
 import numpy as np
 
+# Adding comments
 z='''
 with st.chat_message("user"):
      st.write("Hello 👋")
